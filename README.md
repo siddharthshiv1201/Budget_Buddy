@@ -1,2 +1,4 @@
-# Budget_Buddy
-Budget Buddy is your ultimate personal finance assistant, designed to help you effortlessly plan and manage your expenses and income. With a sleek and intuitive interface built using HTML, CSS, and JavaScript, Budget Buddy empowers you to take control of your finances and achieve your financial goals. 
+# Budget-App
+Create This Budget App, Using HTML, CSS, and pure JavaScript. Our web page is designed to be responsive and user-friendly, ensuring that you can access it from any device
+
+Live Link: https://md-zainulabdin.github.io/Budget-App/
